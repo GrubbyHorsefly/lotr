@@ -13,7 +13,7 @@ First part of J.R.R. Tolkien's "The Lord of the Rings" unofficial unabridged aud
     <lastBuildDate>Tue, 02 Aug 2022 22:00:33 +0000</lastBuildDate>
     <pubDate>Tue, 02 Aug 2022 22:00:33 +0000</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <webMaster>kevan@kevan.org (Fourble Admin)</webMaster>
+    <webMaster>vanegmondmatt@gmail.com(Fourble Admin)</webMaster>
 	<generator>Fourble</generator>
 		<image>
 			<url>https://fourble.co.uk/icon-fotrftw.png</url>
@@ -23,6 +23,9 @@ First part of J.R.R. Tolkien's "The Lord of the Rings" unofficial unabridged aud
 		</image>
 		
     <itunes:author>Grub</itunes:author>
+    <itunes:owner>
+	<itunes:email>eddiejrourke@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:subtitle>bored of the Rings: The Fellowship of the Ring</itunes:subtitle>
     <itunes:summary>The Fellowship of the Ring
 
